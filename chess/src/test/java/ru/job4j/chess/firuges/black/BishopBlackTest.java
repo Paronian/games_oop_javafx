@@ -9,9 +9,6 @@ import ru.job4j.chess.ImpossibleMoveException;
 import ru.job4j.chess.firuges.Cell;
 import ru.job4j.chess.firuges.Figure;
 
-import static org.junit.jupiter.api.Assertions.*;
-//import static ru.job4j.chess.firuges.Cell.*;
-
 class BishopBlackTest {
 
     @Test

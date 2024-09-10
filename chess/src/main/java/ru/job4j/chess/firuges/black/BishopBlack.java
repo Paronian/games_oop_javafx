@@ -49,7 +49,3 @@ public class BishopBlack implements Figure {
         return new BishopBlack(dest);
     }
 }
-
-
-
-

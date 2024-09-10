@@ -48,5 +48,3 @@ public class LogicTest {
         assertThat(exception.getMessage()).isEqualTo("The field is occupied");
     }
 }
-
-
